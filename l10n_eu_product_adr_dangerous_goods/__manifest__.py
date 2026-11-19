@@ -24,4 +24,5 @@
         # views
         "views/product_product.xml",
     ],
+    "external_dependencies": {"python": ["openupgradelib"]},
 }
